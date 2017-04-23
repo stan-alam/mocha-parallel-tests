@@ -36,7 +36,7 @@ And all options supported by mocha:
 
 ## Differences with `mocha`
 
- * `--bail` behaviour can differ due to parallel running of tests. See [this issue](https://github.com/yandex/mocha-parallel-tests/issues/88) for more info.
+ * `--bail` behavior can differ due to parallel running of tests. See [this issue](https://github.com/yandex/mocha-parallel-tests/issues/88) for more info.
 
 ## Tests
 `mocha-parallel-tests` is highly covered with tests itself. If you find something bad, feel free to [post an issue](https://github.com/yandex/mocha-parallel-tests/issues/new).
